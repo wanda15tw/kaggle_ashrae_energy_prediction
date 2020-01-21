@@ -1,7 +1,7 @@
-project_temp
+ASHRAE Energy Prediction
 ==============================
 
-Project template for data science project
+https://www.kaggle.com/c/ashrae-energy-prediction/overview
 
 Project Organization
 ------------
